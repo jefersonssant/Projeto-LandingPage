@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+:root {
+    --primary-color: #0A1128;
+    --secondary-color: crimson;
+    --white-color: #ffffff;
+    --light-gray-color: #EEEEEE;
+    --gap: 3rem;
+}
